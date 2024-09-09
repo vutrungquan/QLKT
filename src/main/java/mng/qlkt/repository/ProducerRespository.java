@@ -1,6 +1,6 @@
 package mng.qlkt.repository;
 
-import datn.qlkt.model.*;
+import mng.qlkt.model.*;
 import mng.qlkt.model.Producer;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

@@ -10,7 +10,7 @@ import mng.qlkt.entities.SaleExport;
 import mng.qlkt.model.Export;
 import mng.qlkt.model.Product;
 import mng.qlkt.model.WareHouseExport;
-import datn.qlkt.repository.*;
+import mng.qlkt.repository.*;
 import mng.qlkt.service.ExportService;
 import lombok.extern.log4j.Log4j2;
 import mng.qlkt.repository.ExportRepository;
